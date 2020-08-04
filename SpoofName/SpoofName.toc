@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: [SpoofName] Streaming Name Changer
+## Author: Scott
+## Notes: The purpose of this addon is to mask the players name so it is not visible for anonymity while streaming.
+## Version: 1
+## SavedVariables: SPOOFNAME_CONFIG
+
+main.lua
