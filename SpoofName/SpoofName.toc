@@ -1,8 +1,19 @@
-## Interface: 30300
-## Title: [SpoofName] Streaming Name Changer
-## Author: Scott
-## Notes: The purpose of this addon is to mask the players name so it is not visible for anonymity while streaming.
-## Version: 1
-## SavedVariables: SPOOFNAME_CONFIG
+﻿## Interface: 30300
+## Title: |cff00C957SpoofName|r
+## Title-deDE: |cff00C957SpoofName|r
+## Title-frFR: |cff00C957SpoofName|r
+## Title-ruRU: |cff00C957ПоддельноеИмя|r
+## Notes: |cffCCCC88Spoof your name for safe streaming.|r
+## Notes-deDE: |cffCCCC88Fälschen Sie Ihren Namen für sicheres Streaming.|r
+## Notes-frFR: |cffCCCC88Usurpez votre nom pour une diffusion en continu en toute sécurité.|r
+## Notes-ruRU: |cffCCCC88Подмена имени для безопасного стриминга.|r
+## Version: |cffff0000v0.2|r
+## Author: |cffa330c9DarhangeR|r
+## X-Date: 2020-17-12
+## X-Author-Server: Scourge x2 - 3.3.5a+
+## X-Category: Information
+## X-Localizations: enUS, frFR, deDE, ruRU
+## OptionalDeps: Ace3, LibWindow-1.1
 
-main.lua
+SpoofName_UI.lua
+SpoofName.lua
