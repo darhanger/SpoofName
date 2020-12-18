@@ -1,2 +1,4 @@
 # SpoofName
-## Notes: The purpose of this addon is to mask the players name so it is not visible for anonymity while streaming.
+A simple addon which changes character name for safe streaming when you use cheats xD
+## Slash Commands:
++ `/spoof ######` - where ###### your fake name.
